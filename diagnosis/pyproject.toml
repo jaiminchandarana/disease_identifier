@@ -2,7 +2,7 @@
 name = "diagnosis"
 version = "0.1.0"
 description = "diagnosis using crewAI"
-authors = [{ name = "Jaimin chandarana", email = "jdchandarana3@gmail.com" }]
+authors = [{ name = "Your name", email = "Your email@gmail.com" }]
 requires-python = ">=3.10,<3.14"
 dependencies = [
     "crewai[tools]>=0.159.0,<1.0.0",
