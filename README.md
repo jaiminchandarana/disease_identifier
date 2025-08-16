@@ -38,7 +38,13 @@ C:\Users\[Your Username]\AppData\Local\Packages\PythonSoftwareFoundation.Python.
 
 - A `tesseract.exe` file is provided in this repository add that file path in file (src/diagnosis/extract.py).
 
-  
+
+
+4. **Create groq api key**:
+
+-  Create your groq api key from [Groq api key](https://console.groq.com/keys)
+
+
 
 ## Running the disease identifier
 
