@@ -23,7 +23,7 @@ disease_task:
 
 diagnosis_task:
   description: >
-    Provide discription and precaution for identified disease you got.
+    Provide severity , discription and precaution for identified disease you got.
   expected_output: >
-    discription of identified disease and precaution for identified disease
+    severity of identified disease , discription of identified disease and precaution for identified disease
   agent: diagnosis
