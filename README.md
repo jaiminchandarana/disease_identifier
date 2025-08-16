@@ -70,8 +70,6 @@ cd diagnosis
 
 ```
 
-- Run:
-
 ```bash
 
 crewai run
