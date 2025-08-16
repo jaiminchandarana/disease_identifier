@@ -44,6 +44,8 @@ C:\Users\[Your Username]\AppData\Local\Packages\PythonSoftwareFoundation.Python.
 
 -  Create your groq api key from [Groq api key](https://console.groq.com/keys)
 
+-  Add this key into .env file.
+
 
 
 ## Running the disease identifier
