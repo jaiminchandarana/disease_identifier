@@ -56,9 +56,24 @@ pip install -r requirements.txt
 
 ```
 
+
+
+2. **Add neccesary details**:
+
+- Add your name and email id in pyproject.toml file
+
+- Create an .env file and add:
+
+ ```bash
+
+MODEL=groq/llama-3.3-70b-versatile
+GROQ_API_KEY=your groq api key here
+
+```
+
   
 
-2.  **Run `disease identifier`**:
+3.  **Run `disease identifier`**:
 
 - Open terminal in your IDE.
 
