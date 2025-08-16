@@ -1,3 +1,11 @@
+## Disease identifier
+
+
+
+This disease identifier identifies disease, provides description and precaution for identified disease from lab test of patient from pdf or image.
+
+
+
 ## Prerequisites
 
   
