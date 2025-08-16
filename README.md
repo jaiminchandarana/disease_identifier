@@ -60,4 +60,20 @@ pip install -r requirements.txt
 
 2.  **Run `disease identifier`**:
 
-- Open terminal in your IDE and execute `crewai run` to start disease identifier.
+- Open terminal in your IDE.
+
+- Run:
+
+```bash
+
+cd diagnosis
+
+```
+
+- Run:
+
+```bash
+
+crewai run
+
+```
