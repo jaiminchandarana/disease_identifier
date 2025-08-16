@@ -1,0 +1,29 @@
+extract_task1:
+  description: >
+    Go through whole data {content1}.
+    extract test name, result of test, unit normal range of test.
+  expected_output: >
+    all data of test name, result and unit normal range
+  agent: extracter1
+
+extract_task2:
+  description: >
+    Go through whole data {content2}.
+    extract test name, result of test, unit normal range of test.
+  expected_output: >
+    all data of test name, result and unit normal range
+  agent: extracter2
+
+disease_task:
+  description: >
+    Review extracted data you got and identify disease name from extracted data
+  expected_output: >
+    disease name
+  agent: disease
+
+diagnosis_task:
+  description: >
+    Provide discription and precaution for identified disease you got.
+  expected_output: >
+    discription of identified disease and precaution for identified disease
+  agent: diagnosis
