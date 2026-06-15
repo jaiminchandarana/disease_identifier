@@ -98,3 +98,5 @@ cd diagnosis
 crewai run
 
 ```
+
+also try [https://logicalc.org/](https://logicalc.org/)
